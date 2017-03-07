@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>sis.redsys</groupId>
+  <artifactId>redsys-api</artifactId>
+  <version>1.0.RELEASE</version>
+  <versioning>
+    <versions>
+      <version>1.0.RELEASE</version>
+    </versions>
+    <lastUpdated>20151116112726</lastUpdated>
+  </versioning>
+</metadata>
